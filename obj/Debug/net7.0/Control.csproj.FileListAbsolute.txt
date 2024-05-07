@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\vsc\contr\Control\bin\Debug\net7.0\Control.exe
+C:\Users\User\Desktop\vsc\contr\Control\bin\Debug\net7.0\Control.deps.json
+C:\Users\User\Desktop\vsc\contr\Control\bin\Debug\net7.0\Control.runtimeconfig.json
+C:\Users\User\Desktop\vsc\contr\Control\bin\Debug\net7.0\Control.dll
+C:\Users\User\Desktop\vsc\contr\Control\bin\Debug\net7.0\Control.pdb
+C:\Users\User\Desktop\vsc\contr\Control\obj\Debug\net7.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\vsc\contr\Control\obj\Debug\net7.0\Control.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\vsc\contr\Control\obj\Debug\net7.0\Control.AssemblyInfo.cs
+C:\Users\User\Desktop\vsc\contr\Control\obj\Debug\net7.0\Control.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vsc\contr\Control\obj\Debug\net7.0\Control.dll
+C:\Users\User\Desktop\vsc\contr\Control\obj\Debug\net7.0\refint\Control.dll
+C:\Users\User\Desktop\vsc\contr\Control\obj\Debug\net7.0\Control.pdb
+C:\Users\User\Desktop\vsc\contr\Control\obj\Debug\net7.0\Control.genruntimeconfig.cache
+C:\Users\User\Desktop\vsc\contr\Control\obj\Debug\net7.0\ref\Control.dll
